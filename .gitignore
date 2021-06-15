@@ -1,4 +1,11 @@
-# Compiled class file
+.DS_Store
+._*
+Thumbs.db
+Icon
+*.aux
+*.out
+*.log
+*~
 *.class
 
 # Log file
@@ -11,7 +18,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.nar
 *.ear
