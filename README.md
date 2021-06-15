@@ -15,7 +15,7 @@ Contact: marcel.turcotte@uottawa.ca
 
 * The codebase predates Java 1.5. Sadly, generics are not used.
 
-* As the following
+* As the following 
   [stack overflow post](https://stackoverflow.com/questions/4679746/time-complexity-of-javas-substring)
   explains, in the transition from Java 1.6 to 1.7, the behaviour of
   *substring* changed to create copies. The implication is that the
